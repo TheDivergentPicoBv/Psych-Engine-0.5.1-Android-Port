@@ -83,8 +83,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-9
+				-100,
+				-59
 			],
 			"fps": 24,
 			"anim": "danceLeft",
@@ -111,8 +111,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-9
+				-100,
+				-59
 			],
 			"fps": 24,
 			"anim": "danceRight",
@@ -193,7 +193,7 @@
 		0,
 		0
 	],
-	"healthicon": "gf",
+	"healthicon": "yuri-closet",
 	"flip_x": false,
 	"healthbar_colors": [
 		165,
